@@ -36,3 +36,19 @@
 
 **Link to work:** No code commits today.  Just in planning stage.
 
+### Day 2: August  02, 2018 
+
+**Thoughts:
+
+     Worked on Path of Exile Python Script
+	
+	1) It takes the output of Path of Building (xml file) and parses the data
+	
+	2) not treating the file as xml, but as test.  Should see how to parse xml content
+	
+	3) Need to output some of the additions to a text file rather than just to the screen.
+	
+	4) Still need to investigate using data dirrectly from from Path of Exile to look at stash. 
+
+**Link to work:** 	https://github.com/mladuke/100-days-of-code/tree/master/Path_of_Exile
+
