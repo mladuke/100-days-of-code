@@ -52,3 +52,12 @@
 
 **Link to work:** 	https://github.com/mladuke/100-days-of-code/tree/master/Path_of_Exile
 
+### Day 3: August 03, 2018 
+
+**Thoughts:
+
+    Installed WAMP (MySql + PHP + ???)
+	
+	Now What.  Not sure what is going on so time to watch https://www.coursera.org/learn/intro-sql
+
+**Link to work:** 	Nothing today.  Need to learn to crawl first.
