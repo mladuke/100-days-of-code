@@ -61,3 +61,15 @@
 	Now What.  Not sure what is going on so time to watch https://www.coursera.org/learn/intro-sql
 
 **Link to work:** 	Nothing today.  Need to learn to crawl first.
+
+### Day 4: August 04, 2018 
+
+**Thoughts:
+
+    Switched to Ubuntu 18.04 as base for Database work.  Could not get myphpadmin to work.
+	
+	Continued watching https://www.coursera.org/learn/intro-sql
+
+	Dr Chuck is a great teacher.
+	
+**Link to work:** 	Nothing today.  Still learning to crawl.
