@@ -73,3 +73,17 @@
 	Dr Chuck is a great teacher.
 	
 **Link to work:** 	Nothing today.  Still learning to crawl.
+
+### Day 5: August 05, 2018 
+
+**Thoughts:
+
+    After fighting with the mysql password, finally was able to open up phpmyadmin.
+    
+    https://linuxconfig.org/how-to-reset-root-mysql-password-on-ubuntu-18-04-bionic-beaver-linux was how I did it.
+    
+    Added a table and ran a simple query. Will do more complex things soon.
+    
+ **Link to work:** 	Will post some SQL code soon.  Nothing of note to show today.
+	
+
