@@ -87,3 +87,14 @@
  **Link to work:** 	Will post some SQL code soon.  Nothing of note to show today.
 	
 
+### Day 6: August 06, 2018 
+
+**Thoughts:
+
+   Watched Weeks 1-4 of Building Web Applications in PHP.  
+   
+   https://www.coursera.org/learn/web-applications-php/home/welcome
+   
+   It was a review of HTML, HTTP, and CSS.  PHP is next 
+    
+ **Link to work:** No Code, just watched the class.
