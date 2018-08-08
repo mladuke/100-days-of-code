@@ -98,3 +98,15 @@
    It was a review of HTML, HTTP, and CSS.  PHP is next 
     
  **Link to work:** No Code, just watched the class.
+ 
+ ### Day 7: August 07, 2018 
+
+**Thoughts:
+
+   Watched Weeks 5 of Building Web Applications in PHP.  
+   
+	PHP introduction.  Also installed XAMPP and it worked right away.
+
+	Did 1st simple assignment.
+    
+ **Link to work:** https://github.com/mladuke/100-days-of-code/tree/master/PHP_Class
