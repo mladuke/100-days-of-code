@@ -110,3 +110,13 @@
 	Did 1st simple assignment.
     
  **Link to work:** https://github.com/mladuke/100-days-of-code/tree/master/PHP_Class
+ 
+  ### Day 8: August 08, 2018 
+
+**Thoughts:
+
+   Watched Weeks 6 of Building Web Applications in PHP.  
+   
+	Also did one exercise in Hackerrank.
+    
+ **Link to work:** None today.  Workedd later than usually debugging code.
