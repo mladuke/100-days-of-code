@@ -115,8 +115,20 @@
 
 **Thoughts:
 
-   Watched Weeks 6 of Building Web Applications in PHP.  
+   Watched Week 6 of Building Web Applications in PHP.  
    
 	Also did one exercise in Hackerrank.
     
  **Link to work:** None today.  Workedd later than usually debugging code.
+ 
+ ### Day 9: August 09, 2018 
+
+**Thoughts:
+
+   Watched Weeks 7 and 8 of Building Web Applications in PHP.  
+   
+	Also did one exercise in r/dailyprogrammer.
+	
+	Need to do 3 PHP HW assignments, then class will be finished.
+    
+ **Link to work:** https://github.com/mladuke/100-days-of-code/tree/master/Daily_Programmer
