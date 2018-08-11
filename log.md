@@ -132,3 +132,13 @@
 	Need to do 3 PHP HW assignments, then class will be finished.
     
  **Link to work:** https://github.com/mladuke/100-days-of-code/tree/master/Daily_Programmer
+ 
+  ### Day 10: August 10, 2018 
+
+**Thoughts:
+
+   Finished 2 PHP assignments by modifying sample code. 
+   	
+	Need to do 1 more PHP HW assignment, then class will be finished.
+    
+ **Link to work:** https://github.com/mladuke/100-days-of-code/tree/master/PHP_Class
