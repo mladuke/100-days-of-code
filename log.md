@@ -142,3 +142,13 @@
 	Need to do 1 more PHP HW assignment, then class will be finished.
     
  **Link to work:** https://github.com/mladuke/100-days-of-code/tree/master/PHP_Class
+ 
+ ### Day 11: August 11, 2018 
+
+**Thoughts:
+
+   Finished last PHP assignments by modifying sample code. 
+   	
+	Continued SQL class now that PHP class is finished.
+    
+ **Link to work:** https://github.com/mladuke/100-days-of-code/tree/master/PHP_Class
